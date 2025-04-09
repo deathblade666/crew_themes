@@ -2,7 +2,7 @@
 
 ## Theme Options
 
-below is a list of the various themeing options and what elements that effect, the listed elements may not be the only ones affected by the associated option.
+below is a list of the various themeing options and what elements they effect, the listed elements may not be the only ones affected by the associated option.
 
 |Category|Name|Effected Elements|
 |--|--|--|
