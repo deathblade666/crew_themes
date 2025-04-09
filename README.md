@@ -4,7 +4,7 @@
 
 below is a list of the various themeing options and what elements that effect, the listed elements may not be the only ones affected by the associated option.
 
-|Categroey|Name|Effected Elements|
+|Category|Name|Effected Elements|
 |--|--|--|
 |text|basic|Main text|
 |text|faint|divider lines|
