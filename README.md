@@ -23,8 +23,15 @@ below is a list of the various themeing options and what elements that effect, t
 |data|Mono4| Goal Progress Bar Background|
 
 
+## Screenshots
 
+|AMOLED_Green | AMOLED_Salmon | Mocha |
+|--|--|--|
+| ![alt](https://github.com/deathblade666/crew_themes/blob/d7885b0a93b8a23cb97cc97dfefc918c327521c4/screenshots/AMOLED_green.png)|![alt](https://github.com/deathblade666/crew_themes/blob/d7885b0a93b8a23cb97cc97dfefc918c327521c4/screenshots/AMOLED_salmon.png)|![alt](https://github.com/deathblade666/crew_themes/blob/d7885b0a93b8a23cb97cc97dfefc918c327521c4/screenshots/mocha.png)|
 
+|Dracula | MonoChrome |
+|--|--|
+|![alt](https://github.com/deathblade666/crew_themes/blob/d7885b0a93b8a23cb97cc97dfefc918c327521c4/screenshots/dracula.png)|![alt](https://github.com/deathblade666/crew_themes/blob/d7885b0a93b8a23cb97cc97dfefc918c327521c4/screenshots/monochrome.png)|
 
 
 
