@@ -42,6 +42,7 @@ below is a list of the various themeing options and what elements they effect, t
 |text|basic|Main text|
 |text|faint|divider lines|
 |text|soft|expand icon on rules|
+|text|softer|text input field broders|
 |fill|Lilac|Rule Blocks|
 |fill|teal| Other Rule Blocks|
 |fill|surface_alt|Overall Backgroud|
