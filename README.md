@@ -48,7 +48,8 @@ below is a list of the various themeing options and what elements they effect, t
 |fill|surface_alt|Overall Backgroud|
 |fill|surface|Card background|
 |fill|lightonlydefault|filter toggle switches|
-|fill|nuetralsoft|filter on graph|
+|fill|neutralbasic|new indicator on menu page|
+|fill|neutralsoft|filter on graph|
 |fill|buttonbasic|Main button  & button text|
 |--|blurBackground| background for bottomsheet whitespace|
 |action|primary.default|link text|
