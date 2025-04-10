@@ -41,6 +41,7 @@ below is a list of the various themeing options and what elements they effect, t
 
 |Category|Name|Effected Elements|
 |--|--|--|
+|text|basicstrong|card headers|
 |text|basic|Main text|
 |text|faint|divider lines|
 |text|soft|expand icon on rules|
