@@ -54,6 +54,7 @@ below is a list of the various themeing options and what elements they effect, t
 |fill|neutralbasic|new indicator on menu page|
 |fill|neutralsoft|filter on graph|
 |fill|buttonbasic|Main button  & button text|
+|fill|buttonaltbasic|button background main page|
 |--|blurBackground| background for bottomsheet whitespace|
 |action|primary.default|link text|
 |data|mono1|Graph upper bar|
