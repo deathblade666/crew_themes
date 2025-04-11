@@ -66,6 +66,7 @@ below is a list of the various themeing options and what elements they effect, t
 |action|primary.acent|toggle switch background|
 |action|primary.disabled|save button|
 |action|danger.default|delete buttons|
+|action|sucess.default|enabled rule indicator|
 |data|mono1|Graph upper bar|
 |data|mono2|graph fill|
 |data|Mono4|Goal Progress Bar Background|
