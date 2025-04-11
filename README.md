@@ -64,6 +64,8 @@ below is a list of the various themeing options and what elements they effect, t
 |--|blurBackground| background for bottomsheet whitespace|
 |action|primary.default|link text|
 |action|primary.acent|toggle switch background|
+|action|primary.disabled|save button|
+|action|danger.default|delete buttons|
 |data|mono1|Graph upper bar|
 |data|mono2|graph fill|
 |data|Mono4|Goal Progress Bar Background|
