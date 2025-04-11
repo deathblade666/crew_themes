@@ -23,7 +23,7 @@
     "neutralStrong": "#44475A",
     "neutralBasic": "#44475A",
     "neutralSoft": "#44475A",
-    "lightOnlyDefault": "#1e1e2e",
+    "lightOnlyDefault": "#89b4fa",
     "lightOnlyDisabled": "#081ad3",
     "buttonStrong": "#44475A",
     "buttonBasic": "#fab387",
@@ -47,7 +47,7 @@
   },
   "action": {
     "primary": {
-      "accent": "#fab387",
+      "accent": "#a6e3a1",
       "active": "#44475A",
       "default": "#fab387",
       "disabled": "#6aef90",
