@@ -60,11 +60,11 @@ below is a list of the various themeing options and what elements they effect, t
 |fill|buttonbasic|Main button  & button text|
 |fill|buttonaltbasic|button background main page|
 |fill|buttonfaint|button press color|
-|fill|buttonweak| some buttons|
+|fill|buttonweak|Bottom save button/some buttons|
 |--|blurBackground| background for bottomsheet whitespace|
 |action|primary.default|link text|
 |action|primary.acent|toggle switch background|
-|action|primary.disabled|save button|
+|action|primary.disabled|Top right save button|
 |action|danger.default|delete buttons|
 |action|sucess.default|enabled rule indicator|
 |data|mono1|Graph upper bar|
