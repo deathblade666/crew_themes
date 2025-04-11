@@ -49,8 +49,9 @@ below is a list of the various themeing options and what elements they effect, t
 |text|soft|expand icon on rules|
 |text|softer|text input field broders|
 |text|basicdisabled| rule chain icons colors|
+|text|substrong|rule sub text|
 |fill|Lilac|Rule Blocks|
-|fill|teal| Other Rule Blocks|
+|fill|teal|Other Rule Blocks|
 |fill|surface_alt|Overall Backgroud|
 |fill|surface|Card background|
 |fill|lightonlydefault|filter toggle switches|
@@ -64,7 +65,7 @@ below is a list of the various themeing options and what elements they effect, t
 |action|primary.acent|toggle switch background|
 |data|mono1|Graph upper bar|
 |data|mono2|graph fill|
-|data|Mono4| Goal Progress Bar Background|
+|data|Mono4|Goal Progress Bar Background|
 
 
 
