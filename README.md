@@ -46,6 +46,7 @@ below is a list of the various themeing options and what elements they effect, t
 |text|faint|divider lines|
 |text|soft|expand icon on rules|
 |text|softer|text input field broders|
+|text|basicdisabled| rule chain icons colors|
 |fill|Lilac|Rule Blocks|
 |fill|teal| Other Rule Blocks|
 |fill|surface_alt|Overall Backgroud|
@@ -55,8 +56,10 @@ below is a list of the various themeing options and what elements they effect, t
 |fill|neutralsoft|filter on graph|
 |fill|buttonbasic|Main button  & button text|
 |fill|buttonaltbasic|button background main page|
+|fill|buttonfaint|button press color|
 |--|blurBackground| background for bottomsheet whitespace|
 |action|primary.default|link text|
+|action|primary.acent|toggle switch background|
 |data|mono1|Graph upper bar|
 |data|mono2|graph fill|
 |data|Mono4| Goal Progress Bar Background|
