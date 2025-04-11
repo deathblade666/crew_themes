@@ -60,6 +60,7 @@ below is a list of the various themeing options and what elements they effect, t
 |fill|buttonbasic|Main button  & button text|
 |fill|buttonaltbasic|button background main page|
 |fill|buttonfaint|button press color|
+|fill|buttonweak| some buttons|
 |--|blurBackground| background for bottomsheet whitespace|
 |action|primary.default|link text|
 |action|primary.acent|toggle switch background|
