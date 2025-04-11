@@ -1,8 +1,8 @@
 {
   "text": {
-    "basicStrong": "#F8F8F2",
+    "basicStrong": "#cdd6f4",
     "basic": "#cdd6f4",
-    "basicSoft": "#F8F8F2",
+    "basicSoft": "#cdd6f4",
     "subStrong": "#fab387",
     "sub": "#bac2de",
     "basicDisabled": "#cdd6f4",
@@ -23,7 +23,7 @@
     "neutralStrong": "#44475A",
     "neutralBasic": "#44475A",
     "neutralSoft": "#44475A",
-    "lightOnlyDefault": "#89b4fa",
+    "lightOnlyDefault": "#a6e3a1",
     "lightOnlyDisabled": "#081ad3",
     "buttonStrong": "#44475A",
     "buttonBasic": "#fab387",
@@ -47,17 +47,17 @@
   },
   "action": {
     "primary": {
-      "accent": "#a6e3a1",
+      "accent": "#fab387",
       "active": "#44475A",
       "default": "#fab387",
-      "disabled": "#6aef90",
+      "disabled": "#fab387",
       "pressed": "#282A36",
       "strong": "#4FC282"
     },
     "danger": {
       "accent": "#fab387",
       "active": "#181825",
-      "default": "#9bf53b",
+      "default": "#f38ba8",
       "disabled": "#2ec81d",
       "pressed": "#282A36",
       "strong": "#181825"
