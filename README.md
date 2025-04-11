@@ -66,6 +66,7 @@ below is a list of the various themeing options and what elements they effect, t
 |data|mono1|Graph upper bar|
 |data|mono2|graph fill|
 |data|Mono4|Goal Progress Bar Background|
+|data|monoAlt2|some buttons|
 
 
 
