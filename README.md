@@ -13,9 +13,13 @@ This is a repo for themes created for the Crew Finance app.
 |--|--|--|
 |![alt](https://github.com/deathblade666/crew_themes/blob/b97a5c739e813b0562af8c17a4e03c7732b8ea53/screenshots/AMOLED_yellow.png)|![alt](https://github.com/deathblade666/crew_themes/blob/bbc710ccc950e28e8f577476d3f77bc02e48550e/screenshots/AMOLED_violet.png)|![alt](https://github.com/deathblade666/crew_themes/blob/34af454e96eb861812c5b930953f7b7617d25264/screenshots/AMLOED_Blue.png)|
 
-|Mocha |Dracula | MonoChrome | Purplish-Pink|
-|--|--|--|--|
-|![alt](https://github.com/deathblade666/crew_themes/blob/d7885b0a93b8a23cb97cc97dfefc918c327521c4/screenshots/mocha.png)|![alt](https://github.com/deathblade666/crew_themes/blob/d7885b0a93b8a23cb97cc97dfefc918c327521c4/screenshots/dracula.png)|![alt](https://github.com/deathblade666/crew_themes/blob/d7885b0a93b8a23cb97cc97dfefc918c327521c4/screenshots/monochrome.png)|![alt](https://github.com/deathblade666/crew_themes/blob/684b9e73ddcf449e72055ee891b3a716e28ae109/screenshots/purpleish_pink.png)|
+|Mocha |Dracula | MonoChrome |
+|--|--|--|
+|![alt](https://github.com/deathblade666/crew_themes/blob/d7885b0a93b8a23cb97cc97dfefc918c327521c4/screenshots/mocha.png)|![alt](https://github.com/deathblade666/crew_themes/blob/d7885b0a93b8a23cb97cc97dfefc918c327521c4/screenshots/dracula.png)|![alt](https://github.com/deathblade666/crew_themes/blob/d7885b0a93b8a23cb97cc97dfefc918c327521c4/screenshots/monochrome.png)|
+
+|Monzo|Purplish-Pink|
+|--|--|
+|![alt](https://github.com/deathblade666/crew_themes/blob/1c61c72e18d8d39e4b343b7f7377ee4fc2537100/screenshots/monzo.png)|![alt](https://github.com/deathblade666/crew_themes/blob/684b9e73ddcf449e72055ee891b3a716e28ae109/screenshots/purpleish_pink.png)|
 
 </details>
 
