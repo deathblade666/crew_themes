@@ -11,7 +11,7 @@
     "softer": "#44475A",
     "faint": "#BD93F9",
     "faintest": "#a8ab6f",
-    "inverse": "#44475A",
+    "inverse": "#282A36",
     "inverseDisabled": "#a35a24",
     "lightOnlyBasic": "#BD93F9"
   },
@@ -28,7 +28,7 @@
     "buttonStrong": "#44475A",
     "buttonBasic": "#BD93F9",
     "buttonSoft": "#fe30a9",
-    "buttonWeak": "#320752",
+    "buttonWeak": "#BD93F9",
     "buttonFaint": "#282A36",
     "buttonFaintest": "#b6804b",
     "buttonAltStrong": "#44475A",
@@ -49,8 +49,8 @@
     "primary": {
       "accent": "#BD93F9",
       "active": "#44475A",
-      "default": "#BD93F9",
-      "disabled": "#6aef90",
+      "default": "#F8F8F2",
+      "disabled": "#F8F8F2",
       "pressed": "#282A36",
       "strong": "#4FC282"
     },
@@ -73,7 +73,7 @@
     "success": {
       "accent": "#BD93F9",
       "active": "#cb867c",
-      "default": "#56b39c",
+      "default": "#50FA7B",
       "disabled": "#091ebb",
       "pressed": "#282A36",
       "strong": "#304366"
