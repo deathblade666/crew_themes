@@ -51,7 +51,7 @@ below is a list of the various themeing options and what elements they affect, t
 ||basic|Main text|
 ||basicsoft||
 ||substrong|rule sub text|
-||sub||
+||sub|main sub text|
 ||basicdisabled| rule chain icons colors|
 ||subdisabled||
 ||soft|expand icon on rules|
@@ -61,6 +61,7 @@ below is a list of the various themeing options and what elements they affect, t
 ||inverse|Large Button Text|
 ||inversedisabled||
 ||lightonlybasic||
+|fill|||
 ||surface|Card background|
 ||surface_alt|Overall Backgroud|
 ||surfaceelevated||
@@ -71,7 +72,6 @@ below is a list of the various themeing options and what elements they affect, t
 ||lightonlydefault|filter toggle switches|
 ||lightonlydisabled||
 ||buttonstrong||
-|fill|||
 ||buttonbasic|Main button text|
 ||buttonsoft||
 ||buttonweak|Bottom save button/some buttons|
