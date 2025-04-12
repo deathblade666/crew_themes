@@ -58,7 +58,7 @@ below is a list of the various themeing options and what elements they effect, t
 |fill|lightonlydefault|filter toggle switches|
 |fill|neutralbasic|new indicator on menu page|
 |fill|neutralsoft|filter on graph|
-|fill|buttonbasic|Main button  & button text|
+|fill|buttonbasic|Main button text|
 |fill|buttonaltbasic|button background main page|
 |fill|buttonfaint|button press color|
 |fill|buttonweak|Bottom save button/some buttons|
