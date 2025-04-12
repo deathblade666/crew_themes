@@ -43,35 +43,100 @@ below is a list of the various themeing options and what elements they effect, t
 
 |Category|Name|Effected Elements|
 |--|--|--|
-|text|basicstrong|card headers|
-|text|basic|Main text|
-|text|faint|divider lines|
-|text|soft|expand icon on rules|
-|text|softer|text input field broders|
-|text|basicdisabled| rule chain icons colors|
-|text|substrong|rule sub text|
-|text|inverse|Large Button Text|
-|fill|Lilac|Rule Blocks|
-|fill|teal|Other Rule Blocks|
-|fill|surface_alt|Overall Backgroud|
-|fill|surface|Card background|
-|fill|lightonlydefault|filter toggle switches|
-|fill|neutralbasic|new indicator on menu page|
-|fill|neutralsoft|filter on graph|
-|fill|buttonbasic|Main button text|
-|fill|buttonaltbasic|button background main page|
-|fill|buttonfaint|button press color|
-|fill|buttonweak|Bottom save button/some buttons|
-|--|blurBackground| background for bottomsheet whitespace|
-|action|primary.default|link text|
-|action|primary.acent|toggle switch background|
-|action|primary.disabled|Top right save button|
-|action|danger.default|delete buttons|
-|action|sucess.default|enabled rule indicator|
-|data|mono1|Graph upper bar|
-|data|mono2|graph fill|
-|data|Mono4|Goal Progress Bar Background|
-|data|monoAlt2|some buttons|
+|text|||
+||basicstrong|card headers|
+||basic|Main text|
+||basicsoft||
+||substrong|rule sub text|
+||sub||
+||basicdisabled| rule chain icons colors|
+||subdisabled||
+||soft|expand icon on rules|
+||softer|text input field broders|
+||faint|divider lines|
+||faintest||
+||inverse|Large Button Text|
+||inversedisabled||
+||lightonlybasic||
+||surface|Card background|
+||surface_alt|Overall Backgroud|
+||surfaceelevated||
+||surfaceacent||
+||neutralstrong||
+||neutralbasic|new indicator on menu page|
+||neutralsoft|filter on graph|
+||lightonlydefault|filter toggle switches|
+||lightonlydisabled||
+||buttonstrong||
+|fill|||
+||buttonbasic|Main button text|
+||buttonsoft||
+||buttonweak|Bottom save button/some buttons|
+||buttonfaint|button press color|
+||buttonfainest||
+||buttonaltstrong||
+||buttonaltbasic|button background main page|
+||buttonaltsoft||
+||buttonaltweak||
+|highlight|||
+||Lilac|Rule Blocks|
+||teal|Other Rule Blocks|
+||banana||
+||coral||
+||denim||
+||jade||
+||blurBackground| background for bottomsheet whitespace|
+|action|||
+||primary.acent|toggle switch background|
+||primary.active|Icon color of active tab|
+||primary.default|link text|
+||primary.disabled|Top right save button|
+||primary.pressed||
+||primary.strong||
+||danger.acent||
+||danger.active||
+||danger.default|delete buttons|
+||danger.disabled||
+||danger.pressed||
+||danger.strong||
+||warning.acent||
+||warning.active||
+||warning.default||
+||warning.disabled||
+||warning.pressed||
+||warning.strong||
+||sucess.acent||
+||sucess.active||
+||sucess.default|enabled rule indicator|
+||sucess.disabled||
+||sucess.pressed||
+||sucess.strong||
+|data|||
+||mono1|Graph upper bar|
+||mono2|graph fill|
+||mono3||
+||Mono4|Goal Progress Bar Background|
+||monoalt1||
+||monoAlt2|some buttons|
+||monoalt3||
+||monalt4||
+||qual2_1||
+||qual2_2||
+||qual3_1||
+||qual3_2||
+||qual3_3||
+||qual6_1||
+||qual6_2||
+||qual6_3||
+||qual6_4||
+||qual6_5||
+||qual6_6||
+|others|||
+||mapstyle||
+||defaultcardcolor||
+||statusbartheme|change statusbar icon colors [light/dark]|
+||illistrations theme|switchbetween light/dark illistrations [light/dark]|
+
 
 
 
