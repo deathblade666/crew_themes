@@ -39,7 +39,7 @@ This is a repo for themes created for the Crew Finance app.
 
 ### Theme Options
 
-below is a list of the various themeing options and what elements they effect, the listed elements may not be the only ones affected by the associated option. The option outlined may not be complete. If you wish to contribute please open a PR.
+below is a list of the various themeing options and what elements they affect, the listed elements may not be the only ones affected by the associated option. If you wish to contribute please open a PR.
 
 |Category|Name|Effected Elements|
 |--|--|--|
