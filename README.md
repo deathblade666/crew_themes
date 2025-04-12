@@ -50,6 +50,7 @@ below is a list of the various themeing options and what elements they effect, t
 |text|softer|text input field broders|
 |text|basicdisabled| rule chain icons colors|
 |text|substrong|rule sub text|
+|text|inverse|Large Button Text|
 |fill|Lilac|Rule Blocks|
 |fill|teal|Other Rule Blocks|
 |fill|surface_alt|Overall Backgroud|
