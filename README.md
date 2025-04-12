@@ -12,8 +12,9 @@ This is a repo for themes created for the Crew Finance app.
 6. select Paste theme
 7. Press Save (Optional)
    - if you do not save the theme will revert to default upon relaunching the app
-  
-### Screenshots
+
+<details>
+<summary>Screenshots</summary>
 
 |AMOLED_Green | AMOLED_Salmon | AMOLED_Teal |
 |--|--|--|
@@ -26,6 +27,8 @@ This is a repo for themes created for the Crew Finance app.
 |Mocha |Dracula | MonoChrome | Purplish-Pink|
 |--|--|--|--|
 |![alt](https://github.com/deathblade666/crew_themes/blob/d7885b0a93b8a23cb97cc97dfefc918c327521c4/screenshots/mocha.png)|![alt](https://github.com/deathblade666/crew_themes/blob/d7885b0a93b8a23cb97cc97dfefc918c327521c4/screenshots/dracula.png)|![alt](https://github.com/deathblade666/crew_themes/blob/d7885b0a93b8a23cb97cc97dfefc918c327521c4/screenshots/monochrome.png)|![alt](https://github.com/deathblade666/crew_themes/blob/684b9e73ddcf449e72055ee891b3a716e28ae109/screenshots/purpleish_pink.png)|
+
+</details>
 
 ## Making your own theme!
 
