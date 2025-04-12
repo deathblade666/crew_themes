@@ -54,30 +54,30 @@ below is a list of the various themeing options and what elements they affect, t
 ||sub|main sub text|
 ||basicdisabled| rule chain icons colors|
 ||subdisabled||
-||soft|expand icon on rules|
-||softer|text input field broders|
+||soft|expand icon on rules/text input field broders|
+||softer|goal flow line|
 ||faint|divider lines|
 ||faintest||
 ||inverse|Large Button Text|
 ||inversedisabled||
-||lightonlybasic||
+||lightonlybasic|Theme Selector text in Settings|
 |fill|||
 ||surface|Card background|
 ||surface_alt|Overall Backgroud|
 ||surfaceelevated||
 ||surfaceacent|account card pressed color|
-||neutralstrong||
+||neutralstrong|disabled toggle background|
 ||neutralbasic|new indicator on menu page|
 ||neutralsoft|filter on graph|
 ||lightonlydefault|filter toggle switches|
 ||lightonlydisabled||
-||buttonstrong||
+||buttonstrong|Activate card button press color|
 ||buttonbasic|Main button text|
 ||buttonsoft||
 ||buttonweak|Bottom save button/some buttons|
 ||buttonfaint|button press color|
 ||buttonfainest||
-||buttonaltstrong||
+||buttonaltstrong|send/transfer button press color|
 ||buttonaltbasic|button background main page|
 ||buttonaltsoft||
 ||buttonaltweak||
@@ -90,7 +90,7 @@ below is a list of the various themeing options and what elements they affect, t
 ||jade||
 ||blurBackground| background for bottomsheet whitespace|
 |action|||
-||primary.acent|toggle switch background|
+||primary.acent|toggle on switch background|
 ||primary.active|Icon color of active tab|
 ||primary.default|link text|
 ||primary.disabled|Top right save button|
