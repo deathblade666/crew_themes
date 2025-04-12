@@ -2,17 +2,6 @@
 
 This is a repo for themes created for the Crew Finance app.
 
-## Install Instructions
-
-1. Copy json of theme
-2. Open the app
-3. navigate to the menu page
-4. tap the version/build number 6 times (slowly)
-5. scroll down to theme editor
-6. select Paste theme
-7. Press Save (Optional)
-   - if you do not save the theme will revert to default upon relaunching the app
-
 <details>
 <summary>Screenshots</summary>
 
@@ -29,6 +18,17 @@ This is a repo for themes created for the Crew Finance app.
 |![alt](https://github.com/deathblade666/crew_themes/blob/d7885b0a93b8a23cb97cc97dfefc918c327521c4/screenshots/mocha.png)|![alt](https://github.com/deathblade666/crew_themes/blob/d7885b0a93b8a23cb97cc97dfefc918c327521c4/screenshots/dracula.png)|![alt](https://github.com/deathblade666/crew_themes/blob/d7885b0a93b8a23cb97cc97dfefc918c327521c4/screenshots/monochrome.png)|![alt](https://github.com/deathblade666/crew_themes/blob/684b9e73ddcf449e72055ee891b3a716e28ae109/screenshots/purpleish_pink.png)|
 
 </details>
+
+## Install Instructions
+
+1. Copy json of theme
+2. Open the app
+3. navigate to the menu page
+4. tap the version/build number 6 times (slowly)
+5. scroll down to theme editor
+6. select Paste theme
+7. Press Save (Optional)
+   - if you do not save the theme will revert to default upon relaunching the app
 
 ## Making your own theme!
 
