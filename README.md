@@ -65,7 +65,7 @@ below is a list of the various themeing options and what elements they affect, t
 ||surface|Card background|
 ||surface_alt|Overall Backgroud|
 ||surfaceelevated||
-||surfaceacent||
+||surfaceacent|account card pressed color|
 ||neutralstrong||
 ||neutralbasic|new indicator on menu page|
 ||neutralsoft|filter on graph|
