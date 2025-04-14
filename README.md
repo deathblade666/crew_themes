@@ -11,7 +11,7 @@ This is a repo for themes created for the Crew Finance app.
 
 |AMOLED_Yellow|AMOLED_Violet|AMOLED_Blue|
 |--|--|--|
-|![alt](https://github.com/deathblade666/crew_themes/blob/7cbb41c8c2a9b7215f9eb80fed78b5ba8da6f9d1/screenshots/AMOLED_yellow.png)|![alt](https://github.com/deathblade666/crew_themes/blob/7cbb41c8c2a9b7215f9eb80fed78b5ba8da6f9d1/screenshots/AMOLED_violet.png)|![alt](https://github.com/deathblade666/crew_themes/blob/34af454e96eb861812c5b930953f7b7617d25264/screenshots/AMLOED_Blue.png)|
+|![alt](https://github.com/deathblade666/crew_themes/blob/7cbb41c8c2a9b7215f9eb80fed78b5ba8da6f9d1/screenshots/AMOLED_yellow.png)|![alt](https://github.com/deathblade666/crew_themes/blob/7cbb41c8c2a9b7215f9eb80fed78b5ba8da6f9d1/screenshots/AMOLED_violet.png)|![alt](https://github.com/deathblade666/crew_themes/blob/85698a7e044f6880592611005c01689d6829aa77/screenshots/AMLOED_blue.png)|
 
 |Mocha |Dracula | MonoChrome |
 |--|--|--|
