@@ -5,11 +5,11 @@ This is a repo for themes created for the Crew Finance app.
 <details>
 <summary>Screenshots</summary>
 
-|AMOLED_Green | AMOLED_Salmon | AMOLED_Teal |
+|AMOLED_Jade | AMOLED_Coral | AMOLED_Teal |
 |--|--|--|
 | ![alt](https://github.com/deathblade666/crew_themes/blob/7cbb41c8c2a9b7215f9eb80fed78b5ba8da6f9d1/screenshots/AMOLED_green.png)|![alt](https://github.com/deathblade666/crew_themes/blob/7cbb41c8c2a9b7215f9eb80fed78b5ba8da6f9d1/screenshots/AMOLED_salmon.png)|![alt](https://github.com/deathblade666/crew_themes/blob/7cbb41c8c2a9b7215f9eb80fed78b5ba8da6f9d1/screenshots/AMLOED_teal.png)|
 
-|AMOLED_Yellow|AMOLED_Violet|AMOLED_Blue|
+|AMOLED_Banana|AMOLED_Lilac|AMOLED_Denim|
 |--|--|--|
 |![alt](https://github.com/deathblade666/crew_themes/blob/7cbb41c8c2a9b7215f9eb80fed78b5ba8da6f9d1/screenshots/AMOLED_yellow.png)|![alt](https://github.com/deathblade666/crew_themes/blob/7cbb41c8c2a9b7215f9eb80fed78b5ba8da6f9d1/screenshots/AMOLED_violet.png)|![alt](https://github.com/deathblade666/crew_themes/blob/85698a7e044f6880592611005c01689d6829aa77/screenshots/AMLOED_blue.png)|
 
